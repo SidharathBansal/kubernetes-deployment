@@ -3,7 +3,7 @@
 This repository hosts an interactive HTML visualization of how a `deployment.yaml` gets processed inside Kubernetes — from applying the YAML to running pods on nodes.
 
 🚀 **Live Demo**  
-👉 [View the visualization here](https://<your-github-username>.github.io/<repo-name>/)
+👉 [View the visualization here](https://sidharathbansal.github.io/kubernetes-deployment/)
 
 ---
 
